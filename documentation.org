@@ -1,0 +1,4 @@
+Meeting on Nov 9:
+Recap of project goal
+TODO:
+Find ways of reading esp32 printf data from usb port to UART
